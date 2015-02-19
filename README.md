@@ -24,4 +24,10 @@ Solution:
  
  -So, two approaches. First is called "Vertical Scaling". Eventually will fail if you keep gaining popularity.
  
- -
+ -Takes a shitload of money to scale like this anyways. 
+ 
+ -All falls down if you can't keep up with the write. 
+ 
+ -Second solution is "SHARD" the database. Make multiple copies of the database. Several instances on separate machines. 
+ 
+ 
