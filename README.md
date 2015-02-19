@@ -15,3 +15,13 @@ Web analytics application
  -You insert a queue beteween your web server and the code that will update the database.
  
  -Not a true solution. "band-aid" fix.
+ 
+
+Solution:
+
+ -The database is the BOTTLENECK, all users are still going through database.
+ 
+ 
+ -So, two approaches. First is called "Vertical Scaling". Eventually will fail if you keep gaining popularity.
+ 
+ -
